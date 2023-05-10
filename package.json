@@ -1,6 +1,9 @@
 {
 	"devDependencies": {
-		"typescript": "^5.0.4",
-		"tsx": "^3.12.7"
+		"tsx": "^3.12.7",
+		"typescript": "^5.0.4"
+	},
+	"dependencies": {
+		"neverthrow": "^6.0.0"
 	}
 }
